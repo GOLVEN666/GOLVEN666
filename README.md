@@ -88,8 +88,6 @@ I'm an indie full-stack developer and content creator with a passion for buildin
 
 ![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOLVEN666&show_icons=true&theme=gruvbox)
 
-[<img src="https://img.shields.io/badge/Support%20with-PayPal-blue?style=for-the-badge&logo=paypal"/>]
-
 ### 📚 Learning Journey
 
 I have a diverse learning journey, from web development and design to software engineering. My current focus is on continuous learning and applying new skills to real-world problems.
