@@ -37,7 +37,7 @@ I'm an indie full-stack developer and content creator with a passion for buildin
     <a href="mailto:achraf.xchahid@gmail.com">
         <img alt="Portfolio" title="Portfolio GitHub" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail&style=for-the-badge&labelColor=688207&logo=ach"/>
     </a>
-        <img src="https://img.shields.io/badge/Support%20with-PayPal-blue?style=for-the-badge&logo=paypal"/>](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID)
+        <img src="https://img.shields.io/badge/Support%20with-PayPal-blue?style=for-the-badge&logo=paypal"/>
     </a>
 </p>
 
@@ -88,7 +88,7 @@ I'm an indie full-stack developer and content creator with a passion for buildin
 
 ![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOLVEN666&show_icons=true&theme=gruvbox)
 
-[<img src="https://img.shields.io/badge/Support%20with-PayPal-blue?style=for-the-badge&logo=paypal"/>](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID)
+[<img src="https://img.shields.io/badge/Support%20with-PayPal-blue?style=for-the-badge&logo=paypal"/>]
 
 ### 📚 Learning Journey
 
