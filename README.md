@@ -33,6 +33,10 @@ I'm an indie full-stack developer and content creator with a passion for buildin
     <a href="https://github.com/GOLVEN666?tab=repositories&sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GOLVEN666?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
+      </a>
+    <a href="https://github.com/GOLVEN666?tab=repositories&sort=stargazers">
+        <img alt="Portfolio" title="Portfolio GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GOLVEN666?color=55960c&style=for-the-badge&labelColor=688207&logo=ach"/>
+    </a>
 </p>
 
 ---
