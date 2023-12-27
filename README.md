@@ -35,7 +35,7 @@ I'm an indie full-stack developer and content creator with a passion for buildin
     </a>
       </a>
     <a href="https://golven666.github.io/front-end-box/">
-        <img alt="Portfolio" title="Portfolio GitHub" src="https://custom-icon-badges.demolab.com/github/download/GOLVEN666?color=55960c&style=for-the-badge&labelColor=688207&logo=ach"/>
+        <img alt="Portfolio" title="Portfolio GitHub" src="https://custom-icon-badges.demolab.com/github/download-cloud/GOLVEN666?color=55960c&style=for-the-badge&labelColor=688207&logo=ach"/>
     </a>
 </p>
 
