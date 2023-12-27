@@ -1,4 +1,4 @@
-# 🏄‍♂️ Achraf Chahid
+# Achraf Chahid
 
 **`Digital Craftsman (Developer/Designer/Creator)`**
 
