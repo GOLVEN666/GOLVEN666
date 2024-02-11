@@ -53,32 +53,6 @@ I'm an indie full-stack developer and content creator with a passion for buildin
 - Server and Channel Management
 - Community Growth Strategies
 
-### 🎓 Education
-
-- Full-stack developer in cfhm | 2023 - Present
-- Software Engineering at ALX | 2023 - Present
-- Baccalaureate in Applied Arts | Lycée Technique Jaber Ibnou Hayyan | 2022
-- Baccalaureate in Physics and Chemistry | [Abdelmalek essaadi] | 2021
-
-### 💼 Experience
-
-**Education Program Manager | "DeepSchooL" Private Education Center | August 2022 - May 2023**
-- Supervised and taught diverse courses at a private education center.
-- Managed budgets, policies, and procedures.
-- Oversaw school and departmental operations.
-
-**Digital Marketing Manager | "HOA MANAGEMENT" Digital Agency | 2021 - 2023**
-- Developed and implemented digital marketing strategies.
-- Worked with clients across various industries.
-- Proficient in marketing automation tools.
-
-**Electronic Repair Technician | 2018 - Present**
-- Proficient in hardware and software electronic repairs.
-- Specialized in system modifications and optimization.
-
-** Discord Bot Dev | ASH#4784 | January 2020 - Present**
-- Successfully created and managed multiple Discord servers.
-- Demonstrated strong moderation skills.
 
 ### 🎯 Projects
 
