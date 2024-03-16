@@ -45,11 +45,11 @@ I'm an indie full-stack developer and content creator with a passion for buildin
 
 ### 🧰 Skills
 
-- Web Development (HTML, CSS, JavaScript, React, Node.js)
+- Web Development (HTML, CSS, JavaScript, React, PHP)
 - Digital Marketing (SEO, Social Media Marketing)
 - Education Program Management
 - UI/UX Design
-- Software Engineering (Java, Python, C++)
+- Software Engineering (WASM, Python, C , rust)
 - Server and Channel Management
 - Community Growth Strategies
 
