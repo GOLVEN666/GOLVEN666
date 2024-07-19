@@ -22,6 +22,7 @@
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://stylexjs.com/" target="_blank" rel="noreferrer"> <img src="https://stylexjs.com/img/stylex-logo-small-dark.svg" alt="sketch" width="40" height="40"/> </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="sketch" width="40" height="40"/> </a>
 </p>
 
 I'm an indie full-stack developer and content creator with a passion for building digital solutions and creating meaningful projects. I have extensive experience in various areas, including web development, digital marketing, and education management.
